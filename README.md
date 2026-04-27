@@ -72,10 +72,10 @@ Key columns include:
 
 
 ## Key Findings
-- Customers with **month-to-month contracts** are more likely to churn.  
-- **High monthly charges** increase churn risk significantly.  
-- Customers with **longer tenures** are less likely to leave.  
-- **Electronic check payments** had higher churn compared to other payment methods.
+- Customers with month-to-month contracts are more likely to churn.  
+- High monthly charges increase churn risk significantly.  
+- Customers with longer tenures are less likely to leave.  
+- Electronic check payments had higher churn compared to other payment methods.
 
 ---
 
