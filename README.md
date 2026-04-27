@@ -24,7 +24,7 @@ Key columns include:
 | **Demographics** | Gender, SeniorCitizen, Partner, Dependents |
 | **Account Information** | Tenure, Contract type, Payment method, Monthly charges, Total charges |
 | **Services** | InternetService, PhoneService, StreamingTV, StreamingMovies, etc. |
-| **Target Variable** | `Churn` — indicates whether the customer left or stayed |
+| **Target Variable** | `Churn-indicates whether the customer left or stayed |
 
 
 ##  Project Workflow
