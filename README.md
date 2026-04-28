@@ -3,7 +3,6 @@
 ## An Overview
 This project analyzes customer churn to help a company understand **why customers leave** and how to **predict which customers are at risk** of leaving.  
 The analysis uses data exploration, visualization, and machine learning to uncover key patterns and build a model that can accurately predict churn.
-
 The goal is to help businesses improve **customer retention** by identifying important churn factors and taking proactive steps to reduce customer loss.
 
 
@@ -12,7 +11,6 @@ The goal is to help businesses improve **customer retention** by identifying imp
 - Analyze customer demographics, account details, and service usage to understand churn patterns.  
 - Build and evaluate predictive models that can identify customers likely to churn.  
 - Provide actionable insights and recommendations to improve customer retention rates.
-
 
 
 ##  Dataset Description
@@ -44,9 +42,9 @@ Key columns include:
 
 ### 4️.Model Building
 - Built multiple classification models:
-  - Logistic Regression  
-  - Decision Tree  
-  - Random Forest  
+  - **Logistic Regression**
+  - **Decision Tree**  
+  - **Random Forest**  
 - Compared models to find the best-performing one for churn prediction.
 
 ### 5️.Model Evaluation
@@ -60,7 +58,6 @@ Key columns include:
 ### 6️.Insights & Recommendations
 - Identified key churn factors such as contract type, tenure, and monthly charges.  
 - Provided business recommendations to improve retention.
-
 
 
 ##  Tools & Technologies Used
@@ -86,12 +83,10 @@ Key columns include:
 - Educate customers about **alternative payment methods** to reduce churn.
 
 
-
 ## Future Improvements
 - Implement more advanced models like **XGBoost** or **Neural Networks**.  
 - Build an **interactive dashboard** using Streamlit or Power BI.  
-- Automate churn prediction using live data integration.
-
+- **Automate churn prediction** using live data integration**.
 
 
 ## 📂 How to Use
