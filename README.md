@@ -5,8 +5,6 @@ This project analyzes customer churn to help a company understand **why customer
 The analysis uses data exploration, visualization, and machine learning to uncover key patterns and build a model that can accurately predict churn.
 The goal is to help businesses improve **customer retention** by identifying important churn factors and taking proactive steps to reduce customer loss.
 
-
-
 ##  Objectives
 - Analyze customer demographics, account details, and service usage to understand churn patterns.  
 - Build and evaluate predictive models that can identify customers likely to churn.  
