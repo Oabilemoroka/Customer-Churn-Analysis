@@ -44,7 +44,7 @@ Key columns include:
   - **Decision Tree**  
   - **Random Forest**  
 - Compared models to find the best-performing one for churn prediction.
-
+- 
 ### 5️.Model Evaluation
 - Evaluated models using metrics like:
   - **Accuracy**
@@ -57,15 +57,14 @@ Key columns include:
 - Identified key churn factors such as contract type, tenure, and monthly charges.  
 - Provided business recommendations to improve retention.
 
-
+- 
 ##  Tools & Technologies Used
 - **Python**
 - **Jupyter Notebook**
 - **Pandas**, **NumPy**
 - **Matplotlib**, **Seaborn**
 - **Scikit-learn**
-
-
+- 
 ## Key Findings
 - Customers with month-to-month contracts are more likely to churn.  
 - High monthly charges increase churn risk significantly.  
