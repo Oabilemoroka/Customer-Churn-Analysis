@@ -43,8 +43,8 @@ Key columns include:
   - **Logistic Regression**
   - **Decision Tree**  
   - **Random Forest**  
-- Compared models to find the best-performing one for churn prediction.
-- 
+    **Compared models to find the best-performing one for churn prediction.**
+-  
 ### 5️.Model Evaluation
 - Evaluated models using metrics like:
   - **Accuracy**
