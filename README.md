@@ -10,7 +10,6 @@ The goal is to help businesses improve **customer retention** by identifying imp
 - Build and evaluate predictive models that can identify customers likely to churn.  
 - Provide actionable insights and recommendations to improve customer retention rates.
 
-
 ##  Dataset Description
 The dataset contains customer data from a telecommunications company.  
 Key columns include:
@@ -21,7 +20,6 @@ Key columns include:
 | **Account Information** | Tenure, Contract type, Payment method, Monthly charges, Total charges |
 | **Services** | InternetService, PhoneService, StreamingTV, StreamingMovies, etc. |
 | **Target Variable** | `Churn-indicates whether the customer left or stayed |
-
 
 ##  Project Workflow
 
@@ -44,7 +42,7 @@ Key columns include:
   - **Decision Tree**  
   - **Random Forest**  
     **Compared models to find the best-performing one for churn prediction.**
--  
+
 ### 5️.Model Evaluation
 - Evaluated models using metrics like:
   - **Accuracy**
@@ -57,7 +55,6 @@ Key columns include:
 - Identified key churn factors such as contract type, tenure, and monthly charges.  
 - Provided business recommendations to improve retention.
 
-- 
 ##  Tools & Technologies Used
 - **Python**
 - **Jupyter Notebook**
@@ -70,7 +67,6 @@ Key columns include:
 - High monthly charges increase churn risk significantly.  
 - Customers with longer tenures are less likely to leave.  
 - Electronic check payments had higher churn compared to other payment methods.
-- 
 
 ## Business Recommendations
 - Offer **discounts or loyalty programs** for month-to-month contract customers.  
@@ -78,22 +74,20 @@ Key columns include:
 - Improve **customer engagement** early in the contract to increase tenure.  
 - Educate customers about **alternative payment methods** to reduce churn.
 
-
 ## Future Improvements
 - Implement more advanced models like **XGBoost** or **Neural Networks**.  
 - Build an **interactive dashboard** using Streamlit or Power BI.  
 - **Automate churn prediction** using live data integration**.
-
 
 ## 📂 How to Use
 1. Download or clone this repository.  
 2. Open `Customer Churn Analysis.ipynb` in **Jupyter Notebook** or **VS Code**.  
 3. Run each cell sequentially to explore the data, train models, and view results.
 
-
 ## 👨‍💻 Author
 **Oabile Moroka**  
 📧 oabilemoroka@gmail.com  
 🔗 Oabilemoroka (https://github.com/Oabilemoroka)
+
 🔗LinkedIn: Oabile Moroka
 
