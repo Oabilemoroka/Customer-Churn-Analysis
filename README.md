@@ -86,6 +86,8 @@ Key columns include:
 
 ## 👨‍💻 Author
 **Oabile Moroka**  
-📧 oabilemoroka@gmail.com  
-🔗LinkedIn: Oabile Moroka
+
+**📧 oabilemoroka@gmail.com**
+
+**🔗LinkedIn: Oabile Moroka**
 
