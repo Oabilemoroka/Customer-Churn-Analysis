@@ -9,9 +9,7 @@ The goal is to help businesses improve **customer retention** by identifying imp
 - Analyze customer demographics, account details, and service usage to understand churn patterns.  
 - Build and evaluate predictive models that can identify customers likely to churn.  
 - Provide actionable insights and recommendations to improve customer retention rates.
-
-##  Dataset Description
-The dataset contains customer data from a telecommunications company.  
+ 
 Key columns include:
 
 | Feature Category | Description |
